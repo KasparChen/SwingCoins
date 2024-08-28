@@ -61,6 +61,8 @@ We welcome contributions from the community! Please follow these guidelines:
 2. Create a new branch (`feature-branch`).
 3. Commit your changes.
 4. Push the branch and create a Pull Request.
+[*Currently, all works are allocated in a single file, functions might be separated in future work.*]
+[*The contract is testing in a EVM L2, will migarate to BSC once core mechanism is done.*]
 
 ## **License**
 
